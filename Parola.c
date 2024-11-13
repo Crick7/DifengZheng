@@ -1,7 +1,7 @@
 #include <studio.h>
 
 int main(){
- char[] parola="PIZZA";
-printf("il programma mmemorizza la parola %s",parola);
+ char parola[]="PIZZA";
+printf("il programma memorizza la parola %s/n",parola);
 getchar();
 }
